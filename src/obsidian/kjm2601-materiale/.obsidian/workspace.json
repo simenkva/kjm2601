@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "fysikkrepetisjon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "fysikkrepetisjon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "fysikkrepetisjon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "fysikkrepetisjon.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "a33fa5905cc610de",
   "lastOpenFiles": [
-    "fysikkrepetisjon.md",
     "index.md",
+    "fysikkrepetisjon.md",
     "Fysikkrepetisjon.md",
     "bilder",
     "bilder/potential_energy_2 2.svg",
