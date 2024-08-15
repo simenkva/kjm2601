@@ -148,43 +148,6 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "26ca7832e730757d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "11269f81f23d4a9f",
-        "type": "window",
-        "children": [
-          {
-            "id": "c84a6eee00a4d21c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e6b4224ddcf6a684",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 306,
-        "y": 457,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "a33fa5905cc610de",
   "lastOpenFiles": [
     "fysikkrepetisjon.md",
