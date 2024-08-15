@@ -8,7 +8,7 @@ Under folderen `html` finner du notater laget til kurset i HMTL-format.
 
 # Hvordan leser jeg notatene?
 
-
+Navigér til: [https://simenkva.github.io/kjm2601/](https://simenkva.github.io/kjm2601/)
 
 # Hvordan er notatene laget?
 
