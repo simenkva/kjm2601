@@ -1,7 +1,7 @@
 {
   "settingsVersion": "1.8.1-2b",
   "makeOfflineCompatible": false,
-  "inlineAssets": true,
+  "inlineAssets": false,
   "includePluginCSS": [],
   "includeSvelteCSS": true,
   "titleProperty": "title",
@@ -17,20 +17,20 @@
   "allowResizingSidebars": true,
   "logLevel": "warning",
   "minifyHTML": true,
-  "makeNamesWebStyle": false,
+  "makeNamesWebStyle": true,
   "onlyExportModified": true,
   "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": true,
   "addFileNav": true,
-  "addSearchBar": false,
-  "addGraphView": false,
+  "addSearchBar": true,
+  "addGraphView": true,
   "addTitle": true,
-  "addRSSFeed": false,
+  "addRSSFeed": true,
   "siteURL": "",
   "authorName": "",
   "vaultTitle": "kjm2601-materiale",
-  "exportPreset": "documents",
+  "exportPreset": "website",
   "openAfterExport": false,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
@@ -46,9 +46,7 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "/Users/simenkva/Code/kjm2601/docs",
   "filesToExport": [
-    [
-      "all"
-    ]
+    []
   ],
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
