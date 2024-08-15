@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysikkrepetisjon.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysikkrepetisjon.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysikkrepetisjon.md"
+                "file": "index.md"
               }
             }
           }
@@ -185,8 +185,9 @@
       }
     ]
   },
-  "active": "e6b4224ddcf6a684",
+  "active": "a33fa5905cc610de",
   "lastOpenFiles": [
+    "fysikkrepetisjon.md",
     "index.md",
     "Fysikkrepetisjon.md",
     "bilder",
