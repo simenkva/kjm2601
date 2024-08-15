@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,9 +147,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a33fa5905cc610de",
+  "active": "e59867c06d57449f",
   "lastOpenFiles": [
-    "Startside.md",
+    "index.md",
     "Fysikkrepetisjon.md",
     "bilder",
     "bilder/potential_energy_2 2.svg",
