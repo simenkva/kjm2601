@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +143,52 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a33fa5905cc610de",
+  "floating": {
+    "id": "26ca7832e730757d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "120b4acb408318a7",
+        "type": "window",
+        "children": [
+          {
+            "id": "b432c30b4146ec4f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2a3c1950d79f8cb5",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5458ee3d2dc6eaa9",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 306,
+        "y": 457,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5458ee3d2dc6eaa9",
   "lastOpenFiles": [
-    "Fysikkrepetisjon.md",
     "index.md",
+    "Fysikkrepetisjon.md",
     "bilder",
     "bilder/potential_energy_2 2.svg",
     "bilder/potential_energy_2d.svg",
