@@ -6,10 +6,10 @@
 
 I dette kurset skal vi tenke som fysikere, og betrakte atomer og molekyler som systemer av partikler som følger kvantemekanikkens lover. Men kvantemekanikk bygger på klassisk mekanikk, og dessuten er det slik at atomkjernene som regel kan behandles som klassiske partikler. Derfor tar vi en liten sesjon hvor vi diskuterer atomer og molekyler som klassiske partikler - selv om vi det at dette er "feil".
 
-Et molekyl består av flere elementærpartikler:
-- elektroner
-- protoner
-- nøytroner
+Et molekyl består av flere partikler:
+- elektroner (elementærpartikler)
+- protoner (kompositte partikler)
+- nøytroner (kompositte partikler)
 
 Protonene og nøytronene -- nukleoner -- er så sterkt klumpet sammen av _den sterke kjernekraften_ at de utgjør en enhet som er veldig vanskelig å dele opp - atomkjernen. Atomkjernen består av $Z$ protoner og $N$ nøytroner, og det er totalt $A = N + Z$ partikler i kjernen. Massen er summen av massene til protonene og nøytronene, Atomkjernen har en utstrekning $R$ på størrelsesorden av femtometer (aka fermi), og er veldig hard. 
  $$ R \approx R_0 \cdot A^{1/3}, \quad R_0 \approx 1.2-1.3 \; \text{fm} $$
@@ -24,7 +24,8 @@ Elektronene på sin side er elementærpartikler, og så langt vi vet er de punkt
 ## Posisjon, hastighet, og akselerasjon, og Newtons 2. lov
 
 ![[elektronposisjoner_og_atomkjerner.svg]]
-Når vi behandler molekylpartiklene klassisk har de en veldefinert posisjon og hastighet til et hvert tidspunkt. Partiklene _vekselvirker_, det vil si at de påvirker hverandre med krefter, ved Coulombs lov. Til hvert elektron $i$ (der $i=1,2,\cdots,N_e$ med totalt $N_e$ antall elektroner) har vi da en vei $\mathbf{r}_i(t)$ som funksjon av tiden $t$. Til hver atomkjerne $a$ (med $a=1,2,\cdots N_{at}$ med $N_{at}$ totalt antall atomer) har vi en vei $\mathbf{R}_a(t)$. Hastigheten til elektronene og kjernene er gitt ved derivasjon med hensyn på tid,
+
+Når vi behandler subatomære partikler klassisk har de en _veldefinert posisjon og hastighet til et hvert tidspunkt._ Partiklene _vekselvirker_, det vil si at de påvirker hverandre med krefter, ved Coulombs lov. Til hvert elektron $i$ (der $i=1,2,\cdots,N_e$ med totalt $N_e$ antall elektroner) har vi da en vei $\mathbf{r}_i(t)$ som funksjon av tiden $t$. Til hver atomkjerne $a$ (med $a=1,2,\cdots N_{at}$ med $N_{at}$ totalt antall atomer) har vi en vei $\mathbf{R}_a(t)$. Hastigheten til elektronene og kjernene er gitt ved derivasjon med hensyn på tid,
 $$ \mathbf{v}_i(t) = \frac{d}{dt} \mathbf{r}_i(t). $$
 $$ \mathbf{V}_a(t) = \frac{d}{dt} \mathbf{R}_a(t). $$
 Akselerasjonen er den annenderiverte:
@@ -137,6 +138,7 @@ I notebooken ser vi en ganske forvirrende bane, og etter et par-tre runder så s
 
 Husk at dette er _klassiske simuleringer_. Molekyler er kvantemekaniske, og det er et ganske dypt faktum at mangelegemeproblemet er stabilt når det er kvantemekanisk. Årsaken til dette kan sies å være Heisenbergs uskarphetsrelasjon, men dette kommer vi tilbake til senere.
 
+![[h2plus_classical_orbit.mp4]]
 
 ## Generelle konservative systemer
 
