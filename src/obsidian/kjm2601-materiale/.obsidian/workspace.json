@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,6 +152,11 @@
   "lastOpenFiles": [
     "index.md",
     "fysikkrepetisjon.md",
+    "media/double_well.svg",
+    "media/classical_double_well.mp4",
+    "media/classical_harmonic_oscillator.mp4",
+    "media/h_classical_orbit_elliptic.mp4",
+    "media/h_classical_orbit.mp4",
     "media/h2plus_classical_orbit.mp4",
     "Fysikkrepetisjon.md",
     "media",

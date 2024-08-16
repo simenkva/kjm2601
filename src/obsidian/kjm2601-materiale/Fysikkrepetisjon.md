@@ -125,20 +125,70 @@ Vi setter lengdeskalaen slik at $e^2/4\pi\epsilon_0=1$ (atomære enheter).
 
 Bevegelsen til elektronet i H-atomet har velkjente løsninger, og sammenfaller med bevegelsen av en planet rundt en sol, siden gravitasjonskrefter har samme form som Coulombkrefter. Slik "Kepler-bevegelse" er periodiske ellipsebaner, med solen i ett av fokalpunktene dersom total energi er mindre enn null, parabelbaner dersom energien er null, og hyperbolske baner dersom energien er større enn null.
 
-Vi ser på en Jupyter notebook-demo (`classical_molecule_dynamics.ipynb`), der vi løser bevegelseslikningene med numeriske metoder - her den såkalte _leapfrog-metoden_. Vi løser faktisk her 2-partikkelproblemet. Vi ser at vi får periodiske fine baner, og at det svært tunge protonet ligger mer eller mindre i ro under hele dynamikken.
+Vi kan forsøke å løse problemet numerisk. Jeg har laget en Jupyter notebook (`classical_molecule_dynamics.ipynb`), der vi løser bevegelseslikningene til $N$ ladede partikler med numeriske metoder - her den såkalte _leapfrog-metoden_. I notebooken kan vi sette opp partiklenes masse, ladning og startposisjoner og -hastigheter, for så å simulere. Deretter lages det en animasjon.
+
+For H-atomet må vi ha en kjerne og et elektron. Simuleringene blir gjort i atomære enheter, der $m_e = 1$ og $m_p = 1836$. Videre er $e = 1$. Vi legger protonet i origo og elektronet i punktet $(x,y) = (1,0)$, med hastighet $(v_x,v_y)=(0,1)$. Dette er valgt slik at vi da skal få sirkelbevegelse for elektronet (til en veldig god tilnærming).
+
+
+```python
+N = 2 # Number of particles
+dim = 2 # Dimension of the system
+mass = np.array([1836, 1]) # Mass of the particles
+charge = np.array([1, -1]) # Charge of the particles
+pos = np.array([[0, 0], [1.0, 0.0]]) # Initial position of the particles
+vel = np.array([[0, 0], [0, 1.0]]) # Initial velocity of the particles
+dt = 0.01 # Time step
+t_final = 10 # Final time
+
+pos_t, vel_t = integrate_leapfrog(pos, vel, mass, charge, dt, t_final)
+```
+
+Her er animasjonen som blir produsert:
+![[h_classical_orbit.mp4]]
+
+Vi ser at vi får en periodisk og fine bane, og at det svært tunge protonet ligger mer eller mindre i ro under hele dynamikken.
 
 Vi kan endre litt på initialhastigheten til elektronet. Da er ikke lenger banen sirkulær, men elliptisk, med protonet i ett av fokusene.
 
+```python
+N = 2 # Number of particles
+dim = 2 # Dimension of the system
+mass = np.array([1836, 1]) # Mass of the particles
+charge = np.array([1, -1]) # Charge of the particles
+pos = np.array([[0, 0], [1.0, 0.0]]) # Initial position of the particles
+vel = np.array([[0, 0], [-0.4, 1.0]]) # Initial velocity of the particles
+dt = 0.03 # Time step
+t_final = 30 # Final time
+```
+
+![[h_classical_orbit_elliptic.mp4]]
 
 ## Hydrogen-kation
 
 For $H_2^+$ har vi to protoner. Vi legger disse i to punkter med en avstand $R$. Av symmetrigrunner kan vi velge romkoordinatene $(R/2,0,0)$ og $(-R/2,0,0)$. Nå har ikke systemet lenger en symmetri som gjør at elektronet vil forbli i et plan, med mindre $z(0)=0$. Vi skal forsøke å gjøre en numerisk løsning og plotte resultatene.
 
-I notebooken ser vi en ganske forvirrende bane, og etter et par-tre runder så stikker elektronet rett og slett av etter å ha kommet for nærme et proton. Dette er et vekjent fenomen innen _trelegemeproblemet_: Systemet er ustabilt og på ett eller annet tidspunkt vil partikler bli sendt ut mot uendelig.
+```python
+N = 3
+dim = 2
+mass = np.array([1836, 1836, 1])
+charge = np.array([1, 1, -1])
+pos = np.array([[.1, 0], [-.1, 0], [1.0, 0.0]])
+vel = np.array([[0, 0], [0,0], [0.0, 1.0]])
+dt = 0.01
+t_final = 10
+```
+
+Her er resultatet:
+
+![[h2plus_classical_orbit.mp4]]
+
+
+Vi ser en ganske forvirrende bane, og etter et par-tre runder så stikker elektronet rett og slett av etter å ha kommet for nærme et proton. Dette er et vekjent fenomen innen _trelegemeproblemet_: Systemet er ustabilt og på ett eller annet tidspunkt vil partikler bli sendt ut mot uendelig.
+
+Hva er det forresten som skjer med protonene her? Merk at de er initiellt plassert veldig nær hverandre.
 
 Husk at dette er _klassiske simuleringer_. Molekyler er kvantemekaniske, og det er et ganske dypt faktum at mangelegemeproblemet er stabilt når det er kvantemekanisk. Årsaken til dette kan sies å være Heisenbergs uskarphetsrelasjon, men dette kommer vi tilbake til senere.
 
-![[h2plus_classical_orbit.mp4]]
 
 ## Generelle konservative systemer
 
@@ -180,18 +230,35 @@ Dette er illustrert i figuren. Området utenfor de vertikale linjene kalles "det
 
 Vi kan også si at den minste potensielle energien er $V=0$, som skjer når $y(t)=0$. Da er all energi bevegelsesenergi, og hastigheten er på sitt største der.
 
+Her er en animasjon som viser bevegelsen. De vertikale linjene viser de klassisk forbudte områdene, og den horisontale linjen viser total energi. Animasjonen er laget med notebooken `classical_dynamics_1d.ipynb`.
+
+![[classical_harmonic_oscillator.mp4]]
+
 
 ## Berg-og-dalbane-analogi
 
-Dersom vi animerer fjærbevegelsen i potensial-plottet legger vi merke til at det på en måte ser ut som om massen "sklir" på en berg og dalbane med høyde $V(y)$. Dette er en nyttig analogi, og er *nesten* riktig. Om en masse $m$ skled friksjonsløst på en faktisk bane med form $V(y)$, for vilkårlige funksjoner, så er bevegelseslikningene nesten på Hamiltonsk form. Men for en "ekte" berg og dalbane er kreftene ikke eksakt gitt ved $-dV(y)/dy$. Det er likevel et nyttig bilde å ha. I figuren vises en potensialkurve og et markert punkt, samt en pil som indikerer kraften i punktet.
+Dersom vi, slik som over, animerer fjærbevegelsen i potensial-plottet legger vi merke til at det på en måte ser ut som om massen "sklir" på en berg og dalbane med høyde $V(y)$. Dette er en nyttig analogi, og er *nesten* riktig. Om en masse $m$ skled friksjonsløst på en faktisk bane med form $V(y)$, for vilkårlige funksjoner, så er bevegelseslikningene nesten på Hamiltonsk form. Men for en "ekte" berg og dalbane er kreftene ikke eksakt gitt ved $-dV(y)/dy$. Det er likevel et nyttig bilde å ha. I figuren vises en potensialkurve og et markert punkt, samt en pil som indikerer kraften i punktet. Her er $V(y)$ gitt som:
+$$ V(y) = -\frac{1}{y^2 + .24} - \frac{2}{(y-2)^2 + .3)} $$
 
-![[potential_energy_2 2.svg]]
 
+
+![[double_well.svg]]
+
+Her er bevegelsen for dette systemet animert:
+
+![[classical_double_well.mp4]]
+
+## Flere dimensjoner
 
 
 Går vi til en 2-dimensjonal bevegelse, er $V(x,y)$ potensialflaten. Kraften er $F(x,y) = -\nabla V(x,y) = (-\partial F/\partial x, -\partial F/\partial y)$. Plotter vi $V$ med ekviverdikurver, så er kreftene alltid _ortogonale på konturene_. Dette gjør at vi kan danne oss en forventning om hvordan en partikkel vil bevege seg. I figuren er noen vilkårlige punkter valgt og (de  negative) gradientene er vist med røde piler.
 
 
 ![[potential_energy_2d.svg]]
+
+
+Bevegelsen for partikler i 3d har _mange_ dimensjoner: Bare for He-atomet er det 6 dimensjoner for elektroner og 3 for kjernen, altså en 9-dimensjonal vektor for posisjon og tilsvarende for momentum. Altså er $\mathbf{r}(t) \in \mathbb{R}^9$ og $\mathbf{p}(t) \in \mathbb{R}^9$. Dette er ikke så lett å visualisere.
+
+Dette avslutter vår repetisjon om klassisk mekanikk. Riktignok er det litt abstrakt, men det er nyttig når vi senere skal videre til kvantemekanikken.
 
 
