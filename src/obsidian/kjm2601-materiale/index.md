@@ -5,5 +5,7 @@ Notater:
 * [[fysikkrepetisjon]]
 
 Slides fra forelesningene:
-*  Forlesning 1: [[kjm2601-forelesning-1.pptx]]
+* Forelesning 1: [[kjm2601-forelesning-1.pptx]]
+* Forelesning 2: [[kjm2601-forelesning-2.pptx]]
+* 
 
