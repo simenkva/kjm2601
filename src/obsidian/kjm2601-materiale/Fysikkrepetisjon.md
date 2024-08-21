@@ -97,7 +97,7 @@ Vi ser nå at $\mathbf{r}(0)$ og $\mathbf{p}(0)$ er intialbetingelsene til hele 
 Merknad: Vi kan abstrahere enda litt mer, og definere et _faserom_ $\mathbb{R}^{2(3N)}$ med punkter $\xi = (\mathbf{r},\mathbf{p})$. Merk at et punkt $\xi$ i faserommet bestemmer tilstanden til partikkelsystemet unikt.
 
 Vi definerer den _symplektiske matrisen_ $J$,
-$$ J = \begin{pmatrix} 0_{3N} & -I_{3N} \\ I_{2N} & 0_{3N} \end{pmatrix}. $$
+$$ J = \begin{pmatrix} 0_{2N} & -I_{3N} \\ I_{2N} & 0_{3N} \end{pmatrix}. $$
 Da kan vi skrive Hamiltons likninger som:
 $$ J \dot{\xi} = \nabla_\xi H(\xi). $$
 Vi skal ikke bruke denne abstrakte formuleringen videre.
