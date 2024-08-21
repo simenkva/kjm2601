@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fysikkrepetisjon.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fysikkrepetisjon.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fysikkrepetisjon.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fysikkrepetisjon.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,47 +148,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "8c9fc64e2082fb31",
-    "type": "floating",
-    "children": [
-      {
-        "id": "519c63ca9f2a88cb",
-        "type": "window",
-        "children": [
-          {
-            "id": "ddb0b09f02b63dcc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fbdb881c8cc5f253",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "fysikkrepetisjon.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 2560,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "fbdb881c8cc5f253",
+  "active": "c50b1b178c6fa808",
   "lastOpenFiles": [
-    "index.md",
+    "media/~$kjm2601-forelesning-1.pptx",
+    "media/kjm2601-forelesning-1.pptx",
     "fysikkrepetisjon.md",
+    "index.md",
     "media/double_well.svg",
     "media/classical_double_well.mp4",
     "media/classical_harmonic_oscillator.mp4",
