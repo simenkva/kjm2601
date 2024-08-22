@@ -9,3 +9,6 @@ Slides fra forelesningene:
 * Forelesning 2: [[kjm2601-forelesning-2.pptx]]
 * 
 
+Oppgaver fra gruppetimene
+* Gruppetime 1 slides: [[KJM2601_gruppetime_1.pdf]]
+* Gruppetime 1 oppgaver: [[KJM2601_ukesoppgaver_1.pdf]]
