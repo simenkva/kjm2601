@@ -5,10 +5,13 @@ Notater:
 * [[fysikkrepetisjon]]
 
 Slides fra forelesningene:
-* Forelesning 1: [[kjm2601-forelesning-1.pptx]]
-* Forelesning 2: [[kjm2601-forelesning-2.pptx]]
-* 
+* Forelesning 1, 21/8/2024 slides: [[kjm2601-forelesning-1.pptx]]
+* Forelesning 2, 22/8/2024 slides: [[kjm2601-forelesning-2.pptx]]
+* Forelesning 3: 28/8/2024 slides: [[kjm2601-forelesning-3.pptx]]
+* Forelesning 4: 29/8/2024 slides: [[kjm2601-forelesning-4.pptx]]
 
 Oppgaver fra gruppetimene
-* Gruppetime 1 slides: [[KJM2601_gruppetime_1.pdf]]
+* Gruppetime 1, 23/8/2024 slides: [[KJM2601_gruppetime_1.pdf]]
 * Gruppetime 1 oppgaver: [[KJM2601_ukesoppgaver_1.pdf]]
+
+
