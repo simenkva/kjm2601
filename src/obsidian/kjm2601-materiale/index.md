@@ -13,5 +13,6 @@ Slides fra forelesningene:
 Oppgaver fra gruppetimene
 * Gruppetime 1, 23/8/2024 slides: [[KJM2601_gruppetime_1.pdf]]
 * Gruppetime 1 oppgaver: [[KJM2601_ukesoppgaver_1.pdf]]
+* Gruppetime 1 løsningsforslag: [[kjm2601_week1_solutions.pdf]]
 
-
+* Gruppetime 2, 30/8/2024 oppgaver og slides: [[KJM2601_gruppetime_2.pdf]]

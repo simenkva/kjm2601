@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "66b52c7804851c4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "58b5cd7569d1f3e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d4f49b681de5e78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/obsidian/kjm2601-materiale/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55f06989c7d7fa7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1b88abd45d80767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c00099c84623be0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a8bb7e80ded9238",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b40e321d3d2ffd5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b49bfb992e5771d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4977563e7757005",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec95e649008087e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/obsidian/kjm2601-materiale/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dd081592d98e903",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/obsidian/kjm2601-materiale/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8aae5a5b25450f86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "505fa629117c4870",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/obsidian/kjm2601-materiale/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "3d4f49b681de5e78",
+  "lastOpenFiles": [
+    "src/obsidian/kjm2601-materiale/Fysikkrepetisjon.md",
+    "README.md",
+    "src/obsidian/kjm2601-materiale/index.md",
+    "docs/lib/metadata.json",
+    "docs/lib/fonts/MathJax_Vector-Bold.woff",
+    "docs/lib/fonts/MathJax_Vector-Regular.woff",
+    "docs/lib/fonts/MathJax_Typewriter-Regular.woff",
+    "docs/lib/fonts/MathJax_Script-Regular.woff",
+    "docs/lib/fonts/MathJax_SansSerif-Italic.woff",
+    "docs/lib/fonts/MathJax_SansSerif-Bold.woff",
+    "docs/lib/fonts/MathJax_SansSerif-Regular.woff",
+    "docs/lib/fonts/MathJax_Fraktur-Bold.woff",
+    "docs/lib/fonts/MathJax_Fraktur-Regular.woff",
+    "docs/lib/media/874d8b8e340f75575caa.svg"
+  ]
+}
