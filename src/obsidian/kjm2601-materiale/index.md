@@ -19,5 +19,6 @@ Oppgaver fra gruppetimene
 * Gruppetime 1 løsningsforslag: [[kjm2601_week1_solutions.pdf]]
 
 * Gruppetime 2, 30/8/2024 oppgaver og slides: [[KJM2601_gruppetime_2.pdf]]
-* Gruppetime 3, 6/9/2024 oppgaver og slides: [[ukeoppgaver_slides_uke3.pdf]]
+* Gruppetime 2, løsningsforslag: [[kjm2601_week2_solutions.pdf]]
+* Gruppetime 3, 6/9/2024 oppgaver og slides: [[ukeoppgaver_slides_uke3 1.pdf]]
 * 
