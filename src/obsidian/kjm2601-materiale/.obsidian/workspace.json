@@ -11,9 +11,11 @@
             "id": "c50b1b178c6fa808",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "media/gruppetime-uke-39.pdf"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/gruppetime-uke-39.pdf",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/gruppetime-uke-39.pdf",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/gruppetime-uke-39.pdf"
+                "file": "index.md"
               }
             }
           }
@@ -170,19 +172,19 @@
   "lastOpenFiles": [
     "fysikkrepetisjon.md",
     "gruppetime-uke-39.md",
-    "media/gruppetime-uke-39.pdf",
     "index.md",
-    "gruppetime-uke-39.pdf",
-    "Screenshot 2024-09-27 at 11.24.47.png",
-    "Screenshot 2024-09-27 at 11.24.04.png",
-    "media/kjm2601-forelesning-9-og-10.pptx",
-    "media/~$kjm2601-forelesning-9-og-10.pptx",
-    "media/kjm2601-forelesning-9-og-10.pdf",
-    "media/~ai-41917e23-cbfb-4679-922c-3d400070aeb4_.tmp",
-    "media/~ai-be0a9d6f-ba9d-4580-9706-123d234d8e83_.tmp",
-    "media/~ai-212a442d-4670-4f04-8bf1-b42c1a3fd36d_.tmp",
-    "media/elastic-inelastic2.ai",
-    "media/~ai-3ded9af3-90b1-47ac-9ed8-c4000d180713_.tmp",
+    "media/kjm2601-forelesning-11.pdf",
+    "media/gruppetime-uke-39.pdf",
+    "media/~$kjm2601-forelesning-11.pptx",
+    "media/variasjon_egenfunksjoner.pdf",
+    "media/variasjon_eksempelfunksjon.pdf",
+    "media/variasjon_basisfunksjoner.pdf",
+    "media/~ai-bfc21ae5-453f-41c4-9565-30ce4d08535e_.tmp",
+    "media/spin-up-down.ai",
+    "media/~ai-74fa422f-c7fb-4471-b348-58796d3f7af0_.tmp",
+    "media/Acr9036641527253121043234.tmp",
+    "media/Screenshot 2024-09-27 at 11.24.47.png",
+    "media/Screenshot 2024-09-27 at 11.24.04.png",
     "media/double_well.svg",
     "Fysikkrepetisjon.md",
     "media/potential_energy_2 2.svg",
