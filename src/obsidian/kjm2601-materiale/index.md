@@ -15,6 +15,7 @@ Slides fra forelesningene:
 * Forelesning 7 og 8: 18/9/2024 og 19/9/2024: [[kjm2601-forelesning-7-og-8.pdf]]
 * Forelesning 9 og 10: 25-26/9/2024: [[kjm2601-forelesning-9-og-10.pptx]]. [[kjm2601-forelesning-9-og-10.pdf]]
 * Forelesning 11: 2/10/2024: [[kjm2601-forelesning-11.pptx]] [[kjm2601-forelesning-11.pdf]]
+* Forelesning 12: 3/10/2024: [[kjm2601-forelesning-12.pptx]] [[kjm2601-forelesning-12.pdf]]
 
 
 Oppgaver fra gruppetimene
