@@ -4,6 +4,8 @@ Dette er Obsidian-hvelvet til KJM2601-materiale produsert av Simen Kvaal til H20
 Notater:
 * [[fysikkrepetisjon]]
 * [[Notat om Maxwell og Schrödinger og Born-Oppenheimer.pdf]]
+* [[Tetthetsfunksjonalteori]], [[Tetthetsfunksjonalteori.pdf]]
+
 
 Slides fra forelesningene:
 * Forelesning 1, 21/8/2024 slides: [[kjm2601-forelesning-1.pptx]]
@@ -17,6 +19,9 @@ Slides fra forelesningene:
 * Forelesning 11: 2/10/2024: [[kjm2601-forelesning-11.pptx]] [[kjm2601-forelesning-11.pdf]]
 * Forelesning 12: 3/10/2024: [[kjm2601-forelesning-12.pptx]] [[kjm2601-forelesning-12.pdf]]
 * Forelesning 13: 16/10/2024: [[kjm2601-forelesning-13.pptx]] [[kjm2601-forelesning-13.pdf]]
+* Forelesning 14: 17/10/2024: [[kjm2601-forelesning-14.pptx]]
+	* Notat om DFT: [[Tetthetsfunksjonalteori]], [[Tetthetsfunksjonalteori.pdf]]
+	* Intro til PySCF: Ligger på JupyterHub. Du finner fila her: [[pyscf-intro.ipynb]]
 
 
 Oppgaver fra gruppetimene
