@@ -34,4 +34,6 @@ Oppgaver fra gruppetimene
 * Gruppetime 3, 6/9/2024 oppgaver og slides: [[ukeoppgaver_slides_uke3 1.pdf]]
 * Gruppetime 4, [[Ukesoppgaver uke 4.pdf]]
 * Gruppetime 5, [[gruppetime-uke-39]] (HTML), [[gruppetime-uke-39.pdf]]
-* 
+* Gruppetime 6, [[KJM2601___week_6___2024.pdf]]
+* Gruppetime 7, [[KJM2601___week_7__2024.pdf]]
+
