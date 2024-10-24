@@ -23,7 +23,7 @@ Slides fra forelesningene:
 	* Notat om DFT: [[Tetthetsfunksjonalteori]], [[Tetthetsfunksjonalteori.pdf]]
 	* Intro til PySCF: Ligger på JupyterHub. Du finner fila her: [[pyscf-intro.ipynb]]
 * Forelesning 15: 23/10/2024: [[kjm2601-forelesning-15.pptx]], [[kjm2601-forelesning-15.pdf]]
-
+* Forelesning 16: 24/10/2024: [[kjm2601-forelesning-16.pptx]] [[kjm2601-forelesning-16.pdf]]
 
 
 Oppgaver fra gruppetimene
