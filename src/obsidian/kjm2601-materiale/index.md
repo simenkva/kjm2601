@@ -24,6 +24,14 @@ Slides fra forelesningene:
 	* Intro til PySCF: Ligger på JupyterHub. Du finner fila her: [[pyscf-intro.ipynb]]
 * Forelesning 15: 23/10/2024: [[kjm2601-forelesning-15.pptx]], [[kjm2601-forelesning-15.pdf]]
 * Forelesning 16: 24/10/2024: [[kjm2601-forelesning-16.pptx]] [[kjm2601-forelesning-16.pdf]]
+* Forelesning 17:
+* Forelesning 18:
+* Forelesning 19:
+* Forelesning 20:
+* Forelesning 21:
+* Forelesning 22:
+* Forelesning 23:
+* Forelesning 24:
 
 
 Oppgaver fra gruppetimene
@@ -38,4 +46,6 @@ Oppgaver fra gruppetimene
 * Gruppetime 5, [[gruppetime-uke-39]] (HTML), [[gruppetime-uke-39.pdf]]
 * Gruppetime 6, [[KJM2601___week_6___2024.pdf]]
 * Gruppetime 7, [[KJM2601___week_7__2024.pdf]]
+* Gruppetime 8, [[KJM2601___week_8___2024-2.pdf]], [[Week_8__Solutions-1.pdf]]
+
 
