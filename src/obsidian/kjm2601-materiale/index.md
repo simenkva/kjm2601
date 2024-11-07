@@ -24,10 +24,10 @@ Slides fra forelesningene:
 	* Intro til PySCF: Ligger på JupyterHub. Du finner fila her: [[pyscf-intro.ipynb]]
 * Forelesning 15: 23/10/2024: [[kjm2601-forelesning-15.pptx]], [[kjm2601-forelesning-15.pdf]]
 * Forelesning 16: 24/10/2024: [[kjm2601-forelesning-16.pptx]] [[kjm2601-forelesning-16.pdf]]
-* Forelesning 17: [[kjm2601-forelesning-17.pptx]][[kjm2601-forelesning-17.pdf]]
-<!--* Forelesning 18:
-* Forelesning 19:
-* Forelesning 20:
+* Forelesning 17: [[kjm2601-forelesning-17.pptx]] [[kjm2601-forelesning-17.pdf]]
+* Forelesning 18 og 19: [[kjm2601-forelesning-18-og-19.pptx]]  [[kjm2601-forelesning-18-og-19.pdf]] 
+
+<!--* Forelesning 20:
 * Forelesning 21:
 * Forelesning 22:
 * Forelesning 23:
