@@ -5,6 +5,7 @@ Notater:
 * [[fysikkrepetisjon]]
 * [[Notat om Maxwell og Schrödinger og Born-Oppenheimer.pdf]]
 * [[Tetthetsfunksjonalteori]], [[Tetthetsfunksjonalteori.pdf]]
+* [[Pages from Book_KJM2601__2024_.pdf|EPR-spektroskopi]]
 
 
 Slides fra forelesningene:
@@ -26,9 +27,9 @@ Slides fra forelesningene:
 * Forelesning 16: 24/10/2024: [[kjm2601-forelesning-16.pptx]] [[kjm2601-forelesning-16.pdf]]
 * Forelesning 17: [[kjm2601-forelesning-17.pptx]] [[kjm2601-forelesning-17.pdf]]
 * Forelesning 18 og 19: [[kjm2601-forelesning-18-og-19.pptx]]  [[kjm2601-forelesning-18-og-19.pdf]] 
-
-<!--* Forelesning 20:
-* Forelesning 21:
+* Forelesning 20: [[kjm2601-forelesning-20.pptx]] [[kjm2601-forelesning-20.pdf]] 
+	* Utdrag fra kompendium om [[Pages from Book_KJM2601__2024_.pdf|EPR-spektroskopi]]
+<!--* Forelesning 21:
 * Forelesning 22:
 * Forelesning 23:
 * Forelesning 24:-->
