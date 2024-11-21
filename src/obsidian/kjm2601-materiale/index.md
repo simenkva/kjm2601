@@ -29,7 +29,7 @@ Slides fra forelesningene:
 * Forelesning 18 og 19: [[kjm2601-forelesning-18-og-19.pptx]]  [[kjm2601-forelesning-18-og-19.pdf]] 
 * Forelesning 20: [[kjm2601-forelesning-20.pptx]] [[kjm2601-forelesning-20.pdf]] 
 	* Utdrag fra kompendium om [[Pages from Book_KJM2601__2024_.pdf|EPR-spektroskopi]]
-* Forelesning 21: [[kjm2601-forelesning-21.pptx]][[kjm2601-forelesning-21.pdf]]
+* Forelesning 21: [[kjm2601-forelesning-21.pptx]], [[kjm2601-forelesning-21.pdf]]
 <!--* Forelesning 22:
 * Forelesning 23:
 * Forelesning 24:-->
@@ -51,6 +51,5 @@ Oppgaver fra gruppetimene
 * Gruppetime 8, [[KJM2601___week_8___2024-2.pdf]], [[Week_8__Solutions-1.pdf]]
 * Gruppetime 9, [[KJM2601___week_9___2024.pdf]], [[Week_9__Solutions-1.pdf]]
 * Gruppetime 10, [[KJM2601___week_10___2024.pdf]], [[Week_10__Solutions.pdf]]
-* Gruppetime 11, [[KJM2601___week_11___2024.pdf]]
-
+* Gruppetime 11, [[KJM2601___week_11___2024.pdf]], [[Week_11__Solutions-2.pdf]]
 
