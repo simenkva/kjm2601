@@ -1,6 +1,9 @@
 
 Dette er Obsidian-hvelvet til KJM2601-materiale produsert av Simen Kvaal til H2024-versjonen av kurset.
 
+Pensum:
+- Oversikt finner du [[Pensum|her]]. Også publisert på Canvas.
+
 Notater:
 * [[fysikkrepetisjon]]
 * [[Notat om Maxwell og Schrödinger og Born-Oppenheimer.pdf]]
