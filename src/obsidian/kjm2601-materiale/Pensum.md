@@ -22,4 +22,4 @@ Følgende er en oversikt over det som er pensum i KJM2601 høst 2024. Boken er  
 - [[Tetthetsfunksjonalteori.pdf|Notat om DFT]]
 - Kapittel 16.1, 16.2, 16.3, 16.4. 
 - Kapittel 17.1, 17.2, 17.3, 17.4
--  [[Pages from Book_KJM2601__2024_.pdf|Kompendium-utdrag om EPR]]
+- [[Pages from Book_KJM2601__2024_.pdf|Kompendium-utdrag om EPR]]
