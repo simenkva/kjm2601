@@ -2,7 +2,7 @@
 
 Følgende er en oversikt over det som er pensum i KJM2601 høst 2024. Boken er  "Quantum Chemistry and Spectroscopy" av T. Engel, 4. utgave. For de som bruker 3. utgave er det noen flere seksjoner som ikke er med, det er spesifisert under. I tillegg er det notater utlevert i løpet av semesteret. Det er lenker til notatene i PDF-form i listen.
 
-- [[fysikkrepetisjon|Fysikkrepetisjon, online dokument med animasjoner]] (orienteringsmateriale/supplement)
+- [[Fysikkrepetisjon|Fysikkrepetisjon, online dokument med animasjoner]] (orienteringsmateriale/supplement)
 - Kapittel 1
 - Kapittel 2
 - Kapittel 3

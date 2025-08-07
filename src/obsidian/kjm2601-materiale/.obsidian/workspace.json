@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tetthetsfunksjonalteori.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tetthetsfunksjonalteori"
+              "title": "index"
             }
           },
           {
@@ -93,7 +93,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -192,10 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tetthetsfunksjonalteori.md"
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tetthetsfunksjonalteori"
+              "title": "Outline of index"
             }
           }
         ],
@@ -219,21 +223,21 @@
   },
   "active": "5be6a4dbdfd245d1",
   "lastOpenFiles": [
-    "fysikkrepetisjon.md",
+    "Fysikkrepetisjon.md",
     "gruppetime-uke-39.md",
     "Tetthetsfunksjonalteori.md",
     "index.md",
+    "media/kjm2601-forelesning-0-2025.pptx",
+    "media/~$kjm2601-forelesning-0-2025.pptx",
+    "media/kjm2601-forelesning-1-2025.pptx",
+    "media/~$kjm2601-forelesning-1-2025.pptx",
+    "media/~$kjm2601-forelesning-1.pptx",
+    "media/Fysikkrepetisjon.pdf",
     "Pensum.md",
     "media/Tetthetsfunksjonalteori.pdf",
     "media/Pensum.pdf",
     "Week_11__Solutions-2.pdf",
     "media/~$kjm2601-forelesning-4.pptx",
-    "media/~$kjm2601-forelesning-3.pptx",
-    "media/~$kjm2601-forelesning-12.pptx",
-    "media/~$kjm2601-forelesning-20.pptx",
-    "media/~$kjm2601-forelesning-21.pptx",
-    "media/kjm2601-forelesning-21.pdf",
-    "media/KJM2601___week_10___2024.pdf",
     "media/psi_abc.png",
     "media/psi_c.png",
     "media/psi_b.png",
@@ -242,7 +246,6 @@
     "media/Screenshot 2024-09-27 at 11.24.47.png",
     "media/Screenshot 2024-09-27 at 11.24.04.png",
     "media/double_well.svg",
-    "Fysikkrepetisjon.md",
     "media/potential_energy_2 2.svg",
     "media/potential_energy_2d.svg"
   ]

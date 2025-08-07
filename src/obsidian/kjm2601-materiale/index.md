@@ -1,17 +1,13 @@
 
-Dette er Obsidian-hvelvet til KJM2601-materiale produsert av Simen Kvaal til H2024-versjonen av kurset.
-
-Pensum:
-- Oversikt finner du [[Pensum|her]]. Også publisert på Canvas.
+Dette er Obsidian-hvelvet til KJM2601-materiale produsert av Simen Kvaal til H2025-versjonen av kurset.
 
 Notater:
-* [[fysikkrepetisjon]]
-* [[Notat om Maxwell og Schrödinger og Born-Oppenheimer.pdf]]
-* [[Tetthetsfunksjonalteori]], [[Tetthetsfunksjonalteori.pdf]]
-* [[Pages from Book_KJM2601__2024_.pdf|EPR-spektroskopi]]
+* [[Fysikkrepetisjon]]
+<!-- * [[Notat om Maxwell og Schrödinger og Born-Oppenheimer.pdf]]
+* [[Tetthetsfunksjonalteori]], [[Tetthetsfunksjonalteori.pdf]] -->
 
 
-Slides fra forelesningene:
+<!-- Slides fra forelesningene:
 * Forelesning 1, 21/8/2024 slides: [[kjm2601-forelesning-1.pptx]]
 * Forelesning 2, 22/8/2024 slides: [[kjm2601-forelesning-2.pptx]]
 * Forelesning 3: 28/8/2024 slides: [[kjm2601-forelesning-3.pptx]]
@@ -33,12 +29,12 @@ Slides fra forelesningene:
 * Forelesning 20: [[kjm2601-forelesning-20.pptx]] [[kjm2601-forelesning-20.pdf]] 
 	* Utdrag fra kompendium om [[Pages from Book_KJM2601__2024_.pdf|EPR-spektroskopi]]
 * Forelesning 21: [[kjm2601-forelesning-21.pptx]], [[kjm2601-forelesning-21.pdf]]
-<!--* Forelesning 22:
-* Forelesning 23:
+* Forelesning 22:
+* Forelesning 23: 
 * Forelesning 24:-->
 
 
-
+<!-- 
 Oppgaver fra gruppetimene
 * Gruppetime 1, 23/8/2024 slides: [[KJM2601_gruppetime_1.pdf]]
 * Gruppetime 1 oppgaver: [[KJM2601_ukesoppgaver_1.pdf]]
@@ -55,4 +51,4 @@ Oppgaver fra gruppetimene
 * Gruppetime 9, [[KJM2601___week_9___2024.pdf]], [[Week_9__Solutions-1.pdf]]
 * Gruppetime 10, [[KJM2601___week_10___2024.pdf]], [[Week_10__Solutions.pdf]]
 * Gruppetime 11, [[KJM2601___week_11___2024.pdf]], [[Week_11__Solutions-2.pdf]]
-
+ -->
